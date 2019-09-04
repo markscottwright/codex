@@ -1,0 +1,33 @@
+key mapping
+ctrl-] open link (note, url, image, file)
+ctrl-alt-up/down move current line/selection up/down
+
+Change title - ctrl-1, ctrl-2
+ctrl-h      - open search
+ctrl-o      - open browser for tags/titles
+ctrl-s      - save
+ctrl-n      - new note
+F2          - rename/move note
+ctrl-space  - auto-complete link
+            - mark todo done
+ctrl-q      - reformat
+regular cut/copy/insert
+ctrl-tab    - indent/outdent
+ctrl-alt-up - select paragraph, code block, link, etc
+
+insert photo - creates new photo link
+ctrl-w      - close window
+ctrl-shift-o    - open in new window
+rotate windows
+ctrl-3      - command browser
+        run shell command and insert results
+        run shell command over selection and append/replace results
+        run shell command over note
+
+toggle line numbering
+ctrl-l          - go to line
+ctrl-shift-h    - hide lines based on regex
+
+insert new table
+sort table
+import text, image (becomes link), csv as table
